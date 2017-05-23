@@ -1,0 +1,24 @@
+{
+  "name": "xebia-ng-tags-input",
+  "description": "Tags input directive for AngularJS",
+  "main": "build/ng-tags-input.min.js",
+  "authors": [
+    "[\"Sebastiaan Koppe\"",
+    "\"Michael Benford\"]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "tags",
+    "tags-input"
+  ],
+  "homepage": "https://github.com/xebia/ngTagsInput",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
